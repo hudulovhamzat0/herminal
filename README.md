@@ -313,18 +313,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![GitHub forks](https://img.shields.io/github/forks/hudulovhamzat0/herminal?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/hudulovhamzat0/herminal)
 
-## 🗺️ Roadmap
-
-- [ ] Tab support for multiple terminals
-- [ ] Split pane functionality
-- [ ] Session management
-- [ ] Plugin architecture
-- [ ] Custom keybindings
-- [ ] Profile system
-- [ ] Notification support
-- [ ] Search in terminal output
-- [ ] Bookmark commands
-- [ ] Remote connection support (SSH)
 
 ## 💬 Support
 
