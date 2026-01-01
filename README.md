@@ -1,5 +1,8 @@
 # 🚀 Herminal
 
+
+<img src='img/hinfo.png'>
+
 A beautiful, feature-rich terminal emulator for Linux with 20+ stunning themes, full ANSI color support, and extensive customization options.
 
 ![Herminal](https://img.shields.io/badge/version-1.0.0-purple)
@@ -196,13 +199,13 @@ All settings are automatically saved to `~/.hudul_terminal_settings.json` and pe
 ## 📸 Screenshots
 
 ### Purple Night Theme (Default)
-![Purple Night](https://via.placeholder.com/800x450/1a0a2e/e0d0ff?text=Purple+Night+Theme)
-
+![Purple Night](https://github.com/hudulovhamzat0/herminal/blob/main/img/herminal.png?raw=true)
+ 
 ### Matrix Theme
-![Matrix](https://via.placeholder.com/800x450/000000/00ff00?text=Matrix+Theme)
+![Matrix](https://github.com/hudulovhamzat0/herminal/blob/main/img/matrix.png?raw=true)
 
-### Tokyo Night Theme
-![Tokyo Night](https://via.placeholder.com/800x450/1a1b26/c0caf5?text=Tokyo+Night+Theme)
+### Amber Theme
+![Tokyo Night](https://github.com/hudulovhamzat0/herminal/blob/main/img/amber.png?raw=true)
 
 ## 🔧 Building from Source
 
